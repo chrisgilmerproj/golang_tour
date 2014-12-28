@@ -3,6 +3,13 @@ Go lang tour
 
 The code from http://tour.golang.org/ as I work through it.
 
+References
+---
+
+- Docs: https://golang.org/doc/
+- Spec: https://golang.org/ref/spec
+- Pkgs: https://golang.org/pkg/
+
 Getting Started
 ---
 
