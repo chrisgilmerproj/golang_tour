@@ -19,6 +19,15 @@ Easiest way to get started is:
 $ brew install go
 ```
 
+Then make sure you have a go path set up:
+
+```sh
+$ mkdir ~/go
+$ export GOPATH=~/go
+```
+
+Make sure to put `export GOPATH=~/go` into your `.bashrc`.
+
 Then run any one of these files using:
 
 ```sh
